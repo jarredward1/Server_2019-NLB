@@ -245,11 +245,9 @@ The cluster distributed requests between both backend web servers while maintain
 
 ## Documentation
 
-A complete step-by-step implementation guide is included in:
+The complete step-by-step implementation guide is included in:
 
-```text
-documentation/Network_Load_Balancing.pdf
-```
+[Network Load Balancing Project Guide](https://github.com/jarredward1/Server_2019-NLB/blob/main/Network%20Load%20Balancing.pdf)
 
 ---
 
