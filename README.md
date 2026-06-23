@@ -199,7 +199,7 @@ The cluster distributed requests between both backend web servers while maintain
 
 ## 📄 Documentation
 
-[View full implementation guide (PDF)](https://github.com/jarredward1/Server_2019-NLB/blob/main/Network%20Load%20Balancing.pdf)
+[View full implementation guide (PDF)](https://github.com/jarredward1/server-2019-nlb/blob/main/Network%20Load%20Balancing.pdf)
 
 ---
 
